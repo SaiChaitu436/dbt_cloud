@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: buy_box
+    schema: dev
+    tables:
+      - name: buybox
+        identifier: BUYBOX_RAW_DS_FIRST20_ENTRIES
